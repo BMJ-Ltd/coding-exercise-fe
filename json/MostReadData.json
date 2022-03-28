@@ -1,0 +1,47 @@
+{
+    "headingText": "Most Read",
+    "separatorColor": "bmj-blue-500",
+    "articles": [
+      {
+        "title": "Over 300 Italian doctors and scientists call for more testing",
+        "url": "https://www.bmj.com/content/370/bmj.m3466",
+        "date": "Nov 31",
+        "articleType": {
+          "name": "News & views",
+          "url": "https://www.bmj.com/news"
+        },
+        "author": "Mary Anthamer"
+      },
+      {
+        "title": "Changes to NHS health checks must be evidence based and beneficial, say GPs",
+        "url": "https://www.bmj.com/content/370/bmj.m3026",
+        "date": "Nov 31",
+        "articleType": {
+          "name": "News & views",
+          "url": "https://www.bmj.com/news"
+        },
+        "author": "Mary Anthamer"
+      },
+      {
+        "title": "Kashmir communications blackout is putting patients at risk, doctors warn",
+        "url": "https://www.bmj.com/content/370/bmj.m3257",
+        "date": "Nov 31",
+        "articleType": {
+          "name": "News & views",
+          "url": "https://www.bmj.com/news"
+        },
+        "author": "Mary Anthamer"
+      },
+      {
+        "title": "Raising and responding to frontline concerns in healthcare",
+        "url": "https://www.bmj.com/content/369/bmj.m1936",
+        "date": "Nov 31",
+        "articleType": {
+          "name": "News & views",
+          "url": "https://www.bmj.com/news"
+        },
+        "author": "Mary Anthamer"
+      }
+    ]
+  }
+  
