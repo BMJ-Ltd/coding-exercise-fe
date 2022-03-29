@@ -41,7 +41,27 @@
           "url": "https://www.bmj.com/news"
         },
         "author": "Mary Anthamer"
-      }
+      },
+    {
+      "title": "The illusion of evidence based medicine",
+      "url": "https://www.bmj.com/content/376/bmj.o702",
+      "date": "Mar 16",
+      "articleType": {
+        "name": "Opinions",
+        "url": "https://www.bmj.com/news/opinion"
+      },
+      "author": "Jon Jureidini"
+    },
+    {
+      "title": "Covid-19: Who will be eligible for free testing from 1 April?",
+      "url": "https://www.bmj.com/content/376/bmj.o807",
+      "date": "Mar 25",
+      "articleType": {
+        "name": "News & views",
+        "url": "https://www.bmj.com/news/opinion"
+      },
+      "author": "Gareth Iacobucci"
+    }        
     ]
   }
   
